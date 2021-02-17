@@ -1,6 +1,5 @@
 hi, this is the first file
 hi, this is the first file
-hi, this is the first file
-hi, this is the first file
-hi, this is the first file
-hi, this is the first file
+hi..we are doing this changes for 3rd commit...
+hi..we are doing this changes for 3rd commit...
+hi..we are doing this changes for 3rd commit...
